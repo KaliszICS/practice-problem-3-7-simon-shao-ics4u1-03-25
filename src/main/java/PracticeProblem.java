@@ -77,6 +77,7 @@ if(temp3!=-1){
 		temp3=temp4;
 		}
 }
+
 else{
 	temp3 = temp4;
 }
